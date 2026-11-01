@@ -1,0 +1,55 @@
+END USER LICENSE AGREEMENT — Amlaki (أملاكي)
+Version 4.0.4 · © 2026 Development Speer. All rights reserved.
+
+Please read this Agreement carefully. By installing or using the Software you agree to be bound by its terms. If you do not agree, do not install or use the Software.
+
+1. Definitions
+"Owner": Development Speer, the holder of all rights in the Software.
+"Software": the Amlaki program, including its files, updates, documentation, interface and design.
+"User": the natural or legal person who installs or uses the Software.
+"Activation Key": the code issued by the Owner (or an authorised reseller) to activate the Software on a specific device.
+
+2. Ownership
+The Software is licensed, not sold. All intellectual property rights in the Software — including its code, design, trade name and logo — remain the sole property of the Owner. No rights are transferred to the User except those expressly granted in this Agreement.
+
+3. License Grant
+The Owner grants the User a personal, non-exclusive, non-transferable license to use the Software on the device for which the Activation Key was issued, to manage the User's own properties or properties the User manages in the ordinary course of business, for the term stated in the Activation Key or perpetually if no term is stated.
+
+4. Trial Period
+The Software may be used without an Activation Key for 14 days from first launch for evaluation. After the trial ends the Software operates in read-only mode until activated; the User can still view and export their data, and no data is deleted.
+
+5. Restrictions
+Without the Owner's prior written permission, the User shall not:
+(a) copy, distribute, sell, rent, lend, publish or otherwise make the Software available to any third party;
+(b) modify, translate or create derivative works of the Software;
+(c) reverse engineer, decompile, de-obfuscate or attempt to derive the source code of the Software, except to the extent expressly permitted by applicable law;
+(d) disable or circumvent the activation mechanism or trial period, or share an Activation Key;
+(e) remove any copyright or trademark notices from the Software.
+
+6. User Data
+All data and documents entered by the User belong to the User and are stored on the User's device or in a location the User chooses; they are not sent to the Owner. The User is solely responsible for:
+(a) making regular backups of their data;
+(b) the lawful collection, processing and storage of tenants' and other persons' data, including compliance with the Personal Data Protection Law and related regulations;
+(c) the accuracy of the data entered and any decisions or communications based on it.
+(d) keeping the PIN, the recovery code and the backup encryption password in a safe place; they are not held by the Owner, who cannot know or retrieve them and bears no responsibility for their loss or its consequences.
+
+7. Open-Source Components
+The Software includes third-party components licensed under open-source licenses (such as MIT, Apache 2.0 and SIL OFL 1.1), which are governed by their own licenses included in the "Third-party notices" file. Nothing in this Agreement limits the rights granted by those licenses for those components themselves.
+
+8. Disclaimer of Warranty
+The Software is provided "AS IS" and "AS AVAILABLE", without warranty of any kind, express or implied, including fitness for a particular purpose, error-free or uninterrupted operation. Calculations, alerts and reports shown by the Software are aids only and must be verified by the User before being relied upon.
+
+9. Limitation of Liability
+To the maximum extent permitted by law, the Owner shall not be liable for any indirect, consequential or special damages, or for loss of data, profits or revenue, arising from the use of or inability to use the Software. The Owner's total liability shall in no event exceed the amount paid by the User for the license.
+
+10. Updates and Support
+The Owner may release updates or change features of the Software. The Owner has no obligation to provide support or updates except under a separate agreement.
+
+11. Termination
+This license terminates automatically if the User breaches any of its terms, whereupon the User must stop using and delete the Software. Sections 2, 5, 6, 8, 9 and 12 survive termination.
+
+12. Governing Law
+This Agreement is governed by and construed in accordance with the laws of the Kingdom of Saudi Arabia, and the competent courts of the Kingdom shall have jurisdiction over any dispute arising from it.
+
+13. General
+This Agreement is the entire agreement between the parties regarding the Software. If any provision is held unenforceable, the remaining provisions remain in effect. In case of any discrepancy between the Arabic and English texts, the Arabic text prevails.
